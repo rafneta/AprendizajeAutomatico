@@ -3,6 +3,6 @@ Notas sobre aprendizaje automático
 ##
 ## Borrador
 <dl>
-  <a href="" target="blank_"> Capítulo 1: Números compejos y el plano complejo </a>
+  <a href="https://nbviewer.jupyter.org/github/rafneta/AprendizajeAutomatico/blob/master/Cap1_Introduccion.ipynb" target="blank_"> Capítulo 1: Introducción </a>
  </dl>
 
