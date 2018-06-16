@@ -267,6 +267,20 @@ div pre
     padding: 5px;
 }
 
+
+.MathJax a:hover, .MathJax a:active {
+  color: green;
+  text-decoration: none; //underline ! important;
+}
+
+.MathJax a:link{
+  color: blue;
+  text-decoration: none; //underline ! important;
+}
+
+
+
+
 /*cite:before {content: " : "}   
 cite {font: bold 20px Georgia, "Times New Roman", Times, serif ; text-transform:capitalize; }  
   
