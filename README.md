@@ -10,6 +10,7 @@ Bitacora de desempeño
 | Lunes 4 de Junio de 2018      |  5   horas      |
 | Jueves 7 de Junio de 2018     |  4   horas      |
 | Sábado 9 de Junio de 2018     |  2.5 horas      |
+| Sábado 16 de Junio de 2018     | 3 horas      |
 
 
 ##
