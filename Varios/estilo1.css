@@ -58,7 +58,7 @@ div.cell.code_cell {
 div.text_cell_render{
     font-family: 'Alegreya Sans' sans-serif;
     line-height: 140%;
-    font-size: 130%;
+    font-size: 110%; //cambo de 130 a 110
     font-weight: 400;
     width:850px;
     margin-left:auto;
@@ -192,6 +192,16 @@ div.text_cell_render{
     background:rgba(249,140,97,0.2) /*2(0.98131487965583808, 0.55538641635109398, 0.38740485135246722)*/;
 }
 
+.libro ul li{
+ font-family: 'Alegreya Sans' sans-serif;
+    line-height: 140%;
+    font-size: 110%; //cambo de 130 a 100
+    font-weight: 400;
+    width:850px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left: 0px;
+}
 
 .problemas {	
     border-style:solid;
