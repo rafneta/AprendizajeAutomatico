@@ -6,8 +6,11 @@ Bitacora de desempeño
 
 |          Fecha                |     Horas     |
 | ----------------------------- | ------------- |
-| Días previos no registrados   | 20 horas      |
-| Lunes 4 de Junio de 2018      |  5 horas      |
+| Días previos no registrados   | 20   horas      |
+| Lunes 4 de Junio de 2018      |  5   horas      |
+| Jueves 7 de Junio de 2018     |  4   horas      |
+| Sábado 9 de Junio de 2018     |  2.5 horas      |
+
 
 ##
 ## Borrador
