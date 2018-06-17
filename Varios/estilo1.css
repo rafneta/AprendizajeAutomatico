@@ -104,8 +104,8 @@ div.text_cell_render{
 .text_cell_render h4 {    /*Use this for captions*/
     font-family: 'Nixie One', serif;
     font-size: 14pt;
-    text-align: center;
-    margin-top: 0em;
+    /*text-align: center;*/
+    margin-top: 2em;
     margin-bottom: 2em;
     font-style: regular;
 }
@@ -170,26 +170,26 @@ div.text_cell_render{
     background:rgba(102,194,163,0.02);/*1(0.40000000596046448, 0.7607843279838562, 0.64705884456634521)*/
 }
 
-.visual {	
-    border-style:solid;
-    border-width:4px;
+.laboratorio {	
+    border-left: 5px solid;
+    /*border-width:4px;*/
     /*-webkit-border-radius:15px;
 	border-radius: 15px;*/
     border-color: rgba(249,140,97,0.9);/*#CD853F ; #366272*#CD853F;/**rgba(112, 156, 169, 0.66);*/
     /*background: #366272;rgba(54, 98, 114, 0.9);/*#366272;*/
 	/*border-top-left-radius:10%;*/
-	color:black;
+	color:rgba(249,140,97,0.9);
 	font-size: 1em;
 	/*box-shadow: 10px 10px 10px #2178a3;*/
 	/*overflow:scroll;*/
 	padding: 2% 4% 2% 4%;
 	box-sizing: border-box;
-	width:80%;
+	width:95%;
     margin-left:auto;
     margin-right:auto;
     margin-bottom:2%;
     margin-top:2%; 
-    background:rgba(249,140,97,0.2) /*2(0.98131487965583808, 0.55538641635109398, 0.38740485135246722)*/;
+    background:rgba(249,140,97,0.02) /*2(0.98131487965583808, 0.55538641635109398, 0.38740485135246722)*/;
 }
 
  ul.nobullet{
@@ -198,7 +198,29 @@ div.text_cell_render{
     font-size: 110%; /*cambo de 130 a 100*/
     font-weight: 400;
     list-style-type: none;
+    
     }
+
+
+.algoritmo  li strong {
+color:rgba(140,158,201,0.9);
+}
+
+.laboratorio h3 {
+color:rgba(249,140,97,0.9);
+}
+
+.text_cell_render .laboratorio h4 {    /*Use this for captions*/
+    font-family: 'Nixie One', serif;
+    font-size: 14pt;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    font-style: regular;
+    color:rgba(249,140,97,0.9);
+}
+
+}
+
 
  ul.libro{
  font-family: 'Alegreya Sans' sans-serif;
