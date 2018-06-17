@@ -19,3 +19,6 @@ Bitacora de desempeño
   <a href="https://nbviewer.jupyter.org/github/rafneta/AprendizajeAutomatico/blob/master/Cap1_Introduccion.ipynb" target="blank_"> Capítulo 1: Introducción </a>
  </dl>
 
+<dl>
+  <a href="https://nbviewer.jupyter.org/github/rafneta/AprendizajeAutomatico/blob/master/Cap2_Aprendizaje_Supervisado.ipynb" target="blank_"> Capítulo 2: Aprendizaje Supervisado</a>
+ </dl>
