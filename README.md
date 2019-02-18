@@ -24,4 +24,6 @@ Bitacora de desempeño
  </dl>
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/AprendizajeAutomatico.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.mybinder.org/user/rafneta-aprendizajeautomatico-pwminp5g/tree)
+
+(https://mybinder.org/v2/gh/rafneta/AprendizajeAutomatico.git/master)
