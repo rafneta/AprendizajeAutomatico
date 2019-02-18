@@ -22,3 +22,9 @@ Bitacora de desempeño
 <dl>
   <a href="https://nbviewer.jupyter.org/github/rafneta/AprendizajeAutomatico/blob/master/Cap2_Aprendizaje_Supervisado.ipynb" target="blank_"> Capítulo 2: Aprendizaje Supervisado</a>
  </dl>
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafneta/AprendizajeAutomatico.git/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/rafneta/AprendizajeAutomatico.git/master
